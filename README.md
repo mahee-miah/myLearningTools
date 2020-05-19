@@ -1,12 +1,13 @@
 # Mahee's Learning Tools
 
-## Github
+## Installing Ubuntu 20.04
 
-  Today, my dad showed me how to use Github.
+My dad installed Ubuntu version 20.04 on my macbook pro.
+He worked almost all night just to install this.
+So, for me what makes ubuntu helpful is that Ubuntu is faster than the other operating system I had before.
 
 
-1. First item
-1. Second item
-1. Third item
+
+
 
 
