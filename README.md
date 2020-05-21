@@ -10,6 +10,8 @@ To me Ubuntu is awesome!
 
 ### Working with Ubuntu
 
+As I said in the other paragraph, Ubuntu is much easier to use for an operating system because it has more features and is more faster. One thing you have to have in  
+
 
 
 
