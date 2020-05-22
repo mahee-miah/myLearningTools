@@ -28,9 +28,12 @@ Today, my dad installed texmaker, which is a latex document prepration software,
 
 From now on, I will be creating or modifying documents locally in my laptop, then push everything to my GitHub repository "myLearningTools". My dad showed me a list of commands that I need to execute in the terminal to push (or upload) any documents that create or modify locally in the directory. The list of commands that my dad wrote is given below. 
 
-> git status 
+> git status
+> 
 > git add .
+>
 > git commit -m "Some meaningful messages"
+>
 > git push
 
 
