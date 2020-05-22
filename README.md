@@ -23,6 +23,14 @@ This also lets developers work safely, by branching and merging.
 
 
 ### Date: May 21, 2020 (Quarintine )
+Today, in the morning, I worked on a math PDF that I downloaded I think about a month ago. 
+That math PDF is called OpenStax. Besides OpenStax, I worked on github on my website page, I worked a bit with my experience I am having with working on Ubuntu 20.04.
+This software if much quicker than the other one I had before in this MacBook Pro.
+Of course as it says in the title, quarintine, alot of what I write in github is going to be the same.
+Like, working on OpenStax math PDF or working on my github page every morning and saying what I did the whole day.
+This morning I also helped my mom take care of my brother Ayaan.
+I helped him learn the alphabet and how to trace letters, letting him read a story and teaching him how to count. 
+After this I took a shower and studied on OpenStax a bit more. This is about what I did the whole morning.
 
 Today, my dad installed texmaker, which is a latex document prepration software, that I will be using to prepare all my documents. 
 
