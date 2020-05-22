@@ -26,7 +26,17 @@ This also lets developers work safely, by branching and merging.
 
 Today, my dad installed texmaker, which is a latex document prepration software, that I will be using to prepare all my documents. 
 
-From now on, I will be creating or modifying documents locally in my laptop, then push everything to my GitHub repository "myLearningTools". My dad showed me a list of commands that I need to execute in the terminal to push (or upload) any documents that create or modify locally in the directory. 
+From now on, I will be creating or modifying documents locally in my laptop, then push everything to my GitHub repository "myLearningTools". My dad showed me a list of commands that I need to execute in the terminal to push (or upload) any documents that create or modify locally in the directory. The list of commands that my dad wrote is given below. 
+
+> git status 
+> git add .
+> git commit -m "Some meaningful messages"
+> git push
+
+
+Note that, I created COVID-19 folder today and I pushed it under "myLearningTool" repository. 
+
+
 
 
 
