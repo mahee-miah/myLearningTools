@@ -22,6 +22,11 @@ Version Control- helps developers track + manage changes to software project's c
 This also lets developers work safely, by branching and merging.
 
 
+### Date: May 21, 2020 (Quarintine )
+
+Today, my dad installed texmaker, which is a latex document prepration software, that I will be using to prepare all my documents. 
+
+From now on, I will be creating or modifying documents locally in my laptop, then push everything to my GitHub repository "myLearningTools". My dad showed me a list of commands that I need to execute in the terminal to push (or upload) any documents that in  
 
 
 
