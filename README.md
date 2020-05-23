@@ -79,6 +79,8 @@ This is just a message for the people of USA, maintain social distancing.
 Anyway, I am working on Github right now just typing everything I am feeling like a diary.
 I am just working on github, editing what I have typed so far and all that stuff.
 Today, I hope I can do OpenStax and find a way to balance math my other usual school subjects and github. Hopefully I can.
+I did work on OpenStax today.
+Yay! Now I am going to take a cold shower after typing this and puting it on my github page. Then I am done for the day of math.
 
 
 
