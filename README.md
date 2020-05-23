@@ -64,6 +64,21 @@ That is the link above just to remember my website. Now, I will also write remin
 >Github password: 10112Nbrookshire
 
 That is all I need to remind myself for now.
+This is all I am typing for today.
+
+
+##### May 23, 2020 (another quarintine day)
+
+Today is May 23, 2020, just another Quarintine day. 
+I has some type of hope that tommorow might be Eid, but I was wrong.
+So instead it is another quarintine day. 
+Almost the whole world is on lockdown.
+Only a few countries like Canada lifted lockdown.
+USA has now been on lockdown for atleast 2 months and it is almost 3 monthes that USA has been on lockdown.
+This is just a message for the people of USA, maintain social distancing.
+Anyway, I am working on Github right now just typing everything I am feeling like a diary.
+I am just working on github, editing what I have typed so far and all that stuff.
+Today, I hope I can do OpenStax and find a way to balance math my other usual school subjects and github. Hopefully I can.
 
 
 
