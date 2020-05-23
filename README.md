@@ -40,12 +40,19 @@ From now on, I will be creating or modifying documents locally in my laptop, the
 > 
 > git add .
 >
-> git commit -m "Some meaningful messages"
+> git commit -m "Some meaningful message(s)"
 >
 > git push
 
 
 Note that, I created COVID-19 folder today and I pushed it under "myLearningTool" repository. 
+ 
+ #### May 22, 2020 (Another quarintine day)
+  Today is May 22, 2020 also known as another quarintine day. This morning I took a shower before starting to work on my github page. 
+The cool feature about typing on texteditor is that I don't have to edit on my github page.
+Instead I can type on here.
+To me texteditor is easier to work on now, I don't have to got to my github page. 
+(I know I said that before but I wanted to make it sound more "better" by saying easier.)
 
 
 
