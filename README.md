@@ -54,6 +54,16 @@ Instead I can type on here.
 To me texteditor is easier to work on now, I don't have to got to my github page. 
 (I know I said that before but I wanted to make it sound more "better" by saying easier.)
 
+Now, it is night time and I am typing here right now. 
+I am trying to refresh my memory about what I learned yesterday.
+The thing that I was refreshing was that how to push the stuff that I am writing/typing right now to my github page.
+Note: My github page website: github.com/mahee-miah/myLearningTools
+That is the link above just to remember my website. Now, I will also write reminders to remind myself about anything. 
+>Github username: mahee-miah
+>
+>Github password: 10112Nbrookshire
+That is all I need to remind myself for now.
+
 
 
 
