@@ -76,12 +76,21 @@ Almost the whole world is on lockdown.
 Only a few countries like Canada lifted lockdown.
 USA has now been on lockdown for atleast 2 months and it is almost 3 monthes that USA has been on lockdown.
 This is just a message for the people of USA, maintain social distancing.
-Anyway, I am working on Github right now just typing everything I am feeling like a diary.
+Anyway, I am working on Github right now just typing everything I am feeling, almost like a diary.
 I am just working on github, editing what I have typed so far and all that stuff.
 Today, I hope I can do OpenStax and find a way to balance math my other usual school subjects and github. Hopefully I can.
 I did work on OpenStax today.
 Yay! Now I am going to take a cold shower after typing this and puting it on my github page. Then I am done for the day of math.
 
+
+What I am now typing is in the evening. My brother Ayaan is watching his favorite "tween" show (which tween would be considered the term for my age.)
+I am ten years old, so that is what I mean.
+Now, I am working on my github page at night which would technically be considered my coding time.
+Also, when I am typing to edit my github page, it is a good way to keep on remembering the commands for terminal. 
+The commands for terminal is very important because with one wrong thing, the code could be wrong and there is one way to edit your mistake.
+The way you would edit your mistake would be just pressing the up arrow would copy the code you made before and just edit it.
+The thing is that the reason you have to type the up arrow key is beause once you actually press the enter key and you can't backspace. 
+So, that is why you have to press the up arow key.
 
 
 
