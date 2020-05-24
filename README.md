@@ -85,6 +85,7 @@ Yay! Now I am going to take a cold shower after typing this and puting it on my 
 
 What I am now typing is in the evening. My brother Ayaan is watching his favorite "tween" show (which tween would be considered the term for my age.)
 I am ten years old, so that is what I mean.
+So, the show my brother Ayaan is watching is called monster fish, it is about a guy named Zeb Hogan who catches big fish.
 Now, I am working on my github page at night which would technically be considered my coding time.
 Also, when I am typing to edit my github page, it is a good way to keep on remembering the commands for terminal. 
 The commands for terminal is very important because with one wrong thing, the code could be wrong and there is one way to edit your mistake.
