@@ -93,8 +93,37 @@ The way you would edit your mistake would be just pressing the up arrow would co
 The thing is that the reason you have to type the up arrow key is beause once you actually press the enter key and you can't backspace. 
 So, that is why you have to press the up arow key.
 
-
-
+Now here are some notes for me.
+ >ls
+ >
+ >cd tab:Documents/myGithubDocs/myLearningTools
+ >
+ >ls
+ >
+ >gedit README.md
+ >
+ >cd
+ >
+ >ls
+ >
+ >gedit README.md
+ >
+ >cd
+ >
+ >ls
+ >
+ >gedit README.md
+ >
+ >cd
+ >
+ >ls
+ >
+ >rm README.md
+ >
+ >ls
+ >
+ This is just the code for removing something that I was confused about before.
+ Now, that is all I am going type for today.
 
 
 
