@@ -136,7 +136,22 @@ Now here are some notes for me.
  Then tomorrow at 11 am to 12 pm there is going to be a kids meet that I planned as everyone else like the auties and uncles had zoom meetings with each other and us kids want to see eacho other, why don't us kids have a zoom meeting. 
  All of my friends said they are coming except my friend Arisha because my mom said that her mom doesn't answer her calls that is why we didn't invite her but I did want to invite her that way all of us could talk to each other.
  My friend Zaina who now lives in Wisconson also said yes for joining so Zaina and my other friend Nubira can meet virtually.
- Now, these are some notes to remember to remove.
+ Now, these are some notes to remember to remove a document/directory or make a new document/directory. 
+ >
+ >ls
+ >
+ >cd (change document)
+ >
+ > rm -r (document name)
+ >
+ > cd Documents
+ >
+ > (Then you will not see the document that you wanted to delete)
+ >
+ > mdir for make new directory
+ >
+ 
+I feel like that is all and tomorrow I will 	type more things as I am not to busy tomorrow for Eid, only at 11 am I am going to be busy as I typed in the other paragraph, I created a zoom meeting for us elementary kids.
 
 
 
