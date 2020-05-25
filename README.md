@@ -124,6 +124,19 @@ Now here are some notes for me.
  >
  This is just the code for removing something that I was confused about before.
  Now, that is all I am going type for today.
+ 
+ 
+ ###### May 24, 2020 (Today is Eid!)
+ I did not type today in the morning because, today is Eid al-fitr. 
+ There are two Eids in one year. One is after Ramadan and the other is courbani Eid which when we maybe possibly August or September I will talk about that.
+ The day when Eid comes is decided by the moon.
+ When it is a thin cresant moon that means that the next day will be Eid.
+ Usually, we would go to other peoples houses but as it is Quarintine we can't go to other's houses so that is why we did a zoom meeting.
+ The uncles had their meeting in the morning and the auties did it at 4 o'clock in the afternoon. 
+ Then tomorrow at 11 am to 12 pm there is going to be a kids meet that I planned as everyone else like the auties and uncles had zoom meetings with each other and us kids want to see eacho other, why don't us kids have a zoom meeting. 
+ All of my friends said they are coming except my friend Arisha because my mom said that her mom doesn't answer her calls that is why we didn't invite her but I did want to invite her that way all of us could talk to each other.
+ My friend Zaina who now lives in Wisconson also said yes for joining so Zaina and my other friend Nubira can meet virtually.
+ Now, these are some notes to remember to remove.
 
 
 
