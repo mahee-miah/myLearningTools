@@ -154,4 +154,20 @@ Now here are some notes for me.
 I feel like that is all and tomorrow I will 	type more things as I am not to busy tomorrow for Eid, only at 11 am I am going to be busy as I typed in the other paragraph, I created a zoom meeting for us elementary kids.
 
 
+####### May 25,2020 (Second day of Eid al-fitr but also another QUARENTINE DAY!)
+
+Today is May 25,2020, as it says in the title.
+Today is also the Second day of Eid al-fitr as Eid al-fitr lasts for three days. 
+I had my zoom meeting with my friends.
+During that time i friended Zaina, Keyaan, Rifaya, and Raiya on Roblox.
+The two that either don't play Roblox or I don't know if that person plays Roblox are Nubira and Aquib.
+Ayaan my three year old brother joined the meeting with me.
+The auties have another meeting today at 2:00 pm.
+Now back to my meeting, the youngest there in the elementary group would be Aquib and the oldest will be me.
+The funniest people in the meeting would be Keyaan and Nubira.
+I saw Zaina after a long time so I am pretty happy that I invited her to the meeting as I saw her now.
+That would be all I did as that is the most exciting part and I will talk in the evening.
+
+
+
 
