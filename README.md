@@ -67,7 +67,7 @@ That is all I need to remind myself for now.
 This is all I am typing for today.
 
 
-##### May 23, 2020 (another quarintine day)
+### May 23, 2020 (another quarintine day)
 
 Today is May 23, 2020, just another Quarintine day. 
 I has some type of hope that tommorow might be Eid, but I was wrong.
@@ -126,7 +126,7 @@ Now here are some notes for me.
  Now, that is all I am going type for today.
  
  
-###### May 24, 2020 (Today is Eid!)
+### May 24, 2020 (Today is Eid!)
  I did not type today in the morning because, today is Eid al-fitr. 
  There are two Eids in one year. One is after Ramadan and the other is courbani Eid which when we maybe possibly August or September I will talk about that.
  The day when Eid comes is decided by the moon.
@@ -154,7 +154,7 @@ Now here are some notes for me.
 I feel like that is all and tomorrow I will 	type more things as I am not to busy tomorrow for Eid, only at 11 am I am going to be busy as I typed in the other paragraph, I created a zoom meeting for us elementary kids.
 
 
-####### May 25, 2020 (Second day of Eid al-fitr but also another QUARENTINE DAY!)
+### May 25, 2020 (Second day of Eid al-fitr but also another QUARENTINE DAY!)
 
 Today is May 25,2020, as it says in the title.
 Today is also the Second day of Eid al-fitr as Eid al-fitr lasts for three days. 
