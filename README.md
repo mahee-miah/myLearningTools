@@ -60,8 +60,7 @@ The thing that I was refreshing was that how to push the stuff that I am writing
 Note: My github page website: github.com/mahee-miah/myLearningTools
 That is the link above just to remember my website. Now, I will also write reminders to remind myself about anything. 
 >Github username: mahee-miah
->
->Github password: 10112Nbrookshire
+
 
 That is all I need to remind myself for now.
 This is all I am typing for today.
