@@ -166,8 +166,19 @@ The auties have another meeting today at 2:00 pm.
 Now back to my meeting, the youngest there in the elementary group would be Aquib and the oldest will be me.
 The funniest people in the meeting would be Keyaan and Nubira.
 I saw Zaina after a long time so I am pretty happy that I invited her to the meeting as I saw her now.
-That would be all I did as that is the most exciting part and I will talk in the evening.
+That would be all I did as that is the most exciting part of the day. 
+Next, I will talk in the evening.
 
-
-
+Now, it is the evening.
+I am typing on here to edit my Github page of what I do daily. 
+This is like a diary to me.
+So, there is a thunderstorm.
+Now, let's talk about what I am doing during this thunderstorm.
+So, one of my best friends named Snehal called me on hangouts.
+You know google hangouts.
+We were talking about how one of our friends that will go to second grade has some people from out of Peoria and some people who live in the Prarie Vista apartments.
+To me that is dangerous cause of the current situation of Illinois for COVID-19.
+What I am surprised about is that howcome no one is calling the police.
+Snehal showed me what her dad was working on and her dad is training to be a pilot.
+That is one of the things I did in the evening.
 
