@@ -47,7 +47,7 @@ From now on, I will be creating or modifying documents locally in my laptop, the
 
 Note that, I created COVID-19 folder today and I pushed it under "myLearningTool" repository. 
  
- #### May 22, 2020 (Another quarintine day)
+ ### May 22, 2020 (Another quarintine day)
   Today is May 22, 2020 also known as another quarintine day. This morning I took a shower before starting to work on my github page. 
 The cool feature about typing on texteditor is that I don't have to edit on my github page.
 Instead I can type on here.
