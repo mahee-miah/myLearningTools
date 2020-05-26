@@ -125,11 +125,9 @@ Now here are some notes for me.
  Now, that is all I am going type for today.
  
  
-### May 24, 2020 (Today is Eid!)
- I did not type today in the morning because, today is Eid al-fitr. 
- There are two Eids in one year. One is after Ramadan and the other is courbani Eid which when we maybe possibly August or September I will talk about that.
- The day when Eid comes is decided by the moon.
- When it is a thin cresant moon that means that the next day will be Eid.
+### May 24, 2020 (Quarintine day)
+ Today is May 24, 2020 another quarintine day.
+ As I usually say.
  Usually, we would go to other peoples houses but as it is Quarintine we can't go to other's houses so that is why we did a zoom meeting.
  The uncles had their meeting in the morning and the auties did it at 4 o'clock in the afternoon. 
  Then tomorrow at 11 am to 12 pm there is going to be a kids meet that I planned as everyone else like the auties and uncles had zoom meetings with each other and us kids want to see eacho other, why don't us kids have a zoom meeting. 
@@ -156,7 +154,6 @@ I feel like that is all and tomorrow I will 	type more things as I am not to bus
 ### May 25, 2020 ( QUARENTINE DAY!)
 
 Today is May 25,2020, as it says in the title.
-Today is also the Second day of Eid al-fitr as Eid al-fitr lasts for three days. 
 I had my zoom meeting with my friends.
 During that time i friended Zaina, Keyaan, Rifaya, and Raiya on Roblox.
 The two that either don't play Roblox or I don't know if that person plays Roblox are Nubira and Aquib.
@@ -169,15 +166,11 @@ That would be all I did as that is the most exciting part of the day.
 Next, I will talk in the evening.
 
 Now, it is the evening.
-I am typing on here to edit my Github page of what I do daily. 
-This is like a diary to me.
+I am typing on here to edit my Github page of what I do daily.
 So, there is a thunderstorm.
 Now, let's talk about what I am doing during this thunderstorm.
 So, one of my best friends named Snehal called me on hangouts.
 You know google hangouts.
-We were talking about how one of our friends that will go to second grade has some people from out of Peoria and some people who live in the Prarie Vista apartments.
-To me that is dangerous cause of the current situation of Illinois for COVID-19.
-What I am surprised about is that howcome no one is calling the police.
-Snehal showed me what her dad was working on and her dad is training to be a pilot.
-That is one of the things I did in the evening.
+We usually talk there as it is the only place I can talk to Snehal virtually.
+We just talk about what we are doing and how is our quarintine going and how are we feeling and stuff like that.
 
