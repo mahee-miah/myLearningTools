@@ -175,7 +175,7 @@ We usually talk there as it is the only place I can talk to Snehal virtually.
 We just talk about what we are doing and how is our quarintine going and how are we feeling and stuff like that.
 
 
-### May 27, 2020 (** STILL QUARINTINE**)
+### May 27, 2020 (**STILL QUARINTINE**)
 I did not type yesterday because first in the evening I was quite tired and I have to take care of my brother Ayaan.
 Second of all, I am reading a wiki book of ubuntu. 
 This is to help me learn how to operate Ubuntu.
