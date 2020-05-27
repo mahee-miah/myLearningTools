@@ -148,7 +148,7 @@ Now here are some notes for me.
  > mdir for make new directory
  >
  
-I feel like that is all and tomorrow I will 	type more things as I am not to busy tomorrow for Eid, only at 11 am I am going to be busy as I typed in the other paragraph, I created a zoom meeting for us elementary kids.
+I feel like that is all and tomorrow I will 	type more things as I am not to busy tomorrow, only at 11 am I am going to be busy as I typed in the other paragraph, I created a zoom meeting for us elementary kids.
 
 
 ### May 25, 2020 ( QUARENTINE DAY!)
@@ -174,3 +174,14 @@ You know google hangouts.
 We usually talk there as it is the only place I can talk to Snehal virtually.
 We just talk about what we are doing and how is our quarintine going and how are we feeling and stuff like that.
 
+
+### May 27, 2020 (** STILL QUARINTINE**)
+I did not type yesterday because first in the evening I was quite tired and I have to take care of my brother Ayaan.
+Second of all, I am reading a wiki book of ubuntu. 
+This is to help me learn how to operate Ubuntu.
+So that is why I might not type much these days.
+I know some of the tricks in github like how to bold words in github and how to make strikethrough as well.
+Now I have to learn more in github about how to make your font italic. When I learn you will see in one sentence I will write as an example.
+*This is just an example to see italicized font on github.*
+Now you saw the example, I still have alot to learn about github and terminal plus mainly how to operate Ubuntu. 
+There is a possiblility I might type in the afternoon or at night if there is no rush that I have to keep my brother busy.
