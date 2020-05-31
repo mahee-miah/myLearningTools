@@ -185,3 +185,9 @@ Now I have to learn more in github about how to make your font italic. When I le
 *This is just an example to see italicized font on github.*
 Now you saw the example, I still have alot to learn about github and terminal plus mainly how to operate Ubuntu. 
 There is a possiblility I might type in the afternoon or at night if there is no rush that I have to keep my brother busy.
+
+
+
+### May 30, 2020 (**QUARINTINE** and protesting in US)
+
+Today is May 30,2020. As it says in the title, it is Quarintine, but there is new news. There is protesting in big cities like Minniapolis and Los Angeles because of one person's death. This wasn't due to COVID-19 though. This person died in a car accident. This incident became very big right now and this incident
