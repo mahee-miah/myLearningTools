@@ -190,4 +190,14 @@ There is a possiblility I might type in the afternoon or at night if there is no
 
 ### May 30, 2020 (**QUARINTINE** and protesting in US)
 
-Today is May 30,2020. As it says in the title, it is Quarintine, but there is new news. There is protesting in big cities like Minniapolis and Los Angeles because of one person's death. This wasn't due to COVID-19 though. This person died in a car accident. This incident became very big right now and this incident
+Today is May 30,2020. As it says in the title, it is Quarintine, but there is new news. There is protesting in big cities like Minniapolis and Los Angeles because of one person's death. This wasn't due to COVID-19 though. This person died in police custody which means the police officers was treating that person so badly when that person was going to get aressted that the person died. I can't talk much now got to go.
+
+
+
+### June 2, 2020 (Another day of Protesting and as usual *Quarintine*)
+
+Today is June 2,2020. There is protesting and there is COVID-19. 
+In my personal oppinion, people who live in other countries will start protesting because of this matter. 
+So I a watching some TV with my mom and brother watching the news of what is happening in the world and the place we live is now having protesting so not only big cities are the protests, small cities are also having protests.
+I am about to go to sleep but I will say why I have not been typing much these days is because I have a schedual that to do math in the morning reading an Ubuntu wikibook in the afternoon and reading 10 pages of it.
+The last thing I do for the day is type and push on github which I am also working on a presentation about Ubuntu. Maybe I can type here tomorrow.
