@@ -201,3 +201,14 @@ In my personal oppinion, people who live in other countries will start protestin
 So I a watching some TV with my mom and brother watching the news of what is happening in the world and the place we live is now having protesting so not only big cities are the protests, small cities are also having protests.
 I am about to go to sleep but I will say why I have not been typing much these days is because I have a schedual that to do math in the morning reading an Ubuntu wikibook in the afternoon and reading 10 pages of it.
 The last thing I do for the day is type and push on github which I am also working on a presentation about Ubuntu. Maybe I can type here tomorrow.
+
+
+### June 3, 2020 (There is still protesting and it is still *Quarintine*)
+
+Today is June 3, 2020, there is protesting and there is COVID-19. Everyone is trying everything they can. 
+I did do my schedual like in the morning I was studying the language of Algebra.
+Then I did read ten pages of the wiki book of Ubuntu.
+Last but not least I am working on my github page for now.
+I am trying to find ideas for slides but I still have to work on something in the evening so that is why I am working on README.md.
+I have an idea now so I might not type for a few days on the README file. 
+Now maybe I can type here tomorrow.
