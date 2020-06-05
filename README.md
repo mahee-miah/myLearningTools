@@ -206,4 +206,8 @@ That presentation is about Ubuntu.
 Also some news about me is that I installed grammerly on firefox.
 The biggest thing for me is that I learnt it from the book.
 This made me really happy.
+Also, my friend Nubira came to my house today.
+(We made sure to keep our distance like six feet distance.)
+They gave us cake which now we have two cakes.
+Chocolate and marble cake which I love.
 Now maybe tomorrow there is more typing.
