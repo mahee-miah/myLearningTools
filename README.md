@@ -1,26 +1,6 @@
 # Mahee's Learning Tools
 
-## Installing Ubuntu 20.04 (Introduction)
-
-My dad installed Ubuntu version 20.04 on my macbook pro.
-He worked almost all night just to install this.
-So, for me what makes ubuntu helpful is that Ubuntu is faster and has more features.
-Ubuntu is a great operating system to have that way if you at first have a slow operating system, you can have a faster way of opening apps and loading quicker when you sign out.
-To me Ubuntu is awesome!
-
-### Working with Ubuntu
-
-As I said in the other paragraph, Ubuntu is much easier to use for an operating system because it has more features and is more faster. One thing you have to have in Ubuntu is terminal. Terminal helps you install apps like tweaks.
-Tweaks is an application on Ubuntu that makes configuring you system easier and you can configure your desktop settings.
-Tweaks mostly makes configuring you system easier for everyone.
-Another thing you can use on Ubuntu is github which is on Firefox Web Browser. 
-Github is a website and a cloud-based servicd.
-It helps developers store and manage their code.
-It also controls changes to your/their code.
-Two conected principles you need to know about github are:
-Version Control- helps developers track + manage changes to software project's code.
-This also lets developers work safely, by branching and merging.
-
+## My life in Quarintine plus anything else.
 
 ### Date: May 21, 2020 (Quarintine )
 Today, in the morning, I worked on a math PDF that I downloaded I think about a month ago. 
@@ -212,3 +192,18 @@ Last but not least I am working on my github page for now.
 I am trying to find ideas for slides but I still have to work on something in the evening so that is why I am working on README.md.
 I have an idea now so I might not type for a few days on the README file. 
 Now maybe I can type here tomorrow.
+
+
+### June 4, 2020 (*Protesting days and Quarintine*)
+
+Today is June 4, 2020. As again it says in the title there is protesting and everyone has to be careful.
+When you park the car you have to make sure no one is near it.
+And stores like Walmart that are usually open twenty four hours a day now closes at 5:30.
+Now, about my day.
+I just did the stuff that I usually do like do Openstax in the morning.
+Ubuntu Wikibook in the afternoon and at night I am just working on my github page and if I have any ideas then I work on the slides that I am making on Latex.
+That presentation is about Ubuntu.
+Also some news about me is that I installed grammerly on firefox.
+The biggest thing for me is that I learnt it from the book.
+This made me really happy.
+Now maybe tomorrow there is more typing.
