@@ -207,3 +207,22 @@ Also some news about me is that I installed grammerly on firefox.
 The biggest thing for me is that I learnt it from the book.
 This made me really happy.
 Now maybe tomorrow there is more typing.
+
+
+### June 5, 2020 (*Protesting and Quarintine*)
+I always repeat what there is in the title so anyway.
+Today is June 5, 2020.
+We always have to stay safe and wear masks if we go outside because as you know there is COVID-19.
+Then the other thing you have to be careful of is the protests.
+I mean like there are people looting businesses and doing vandlisim and very bad stuff like that.
+For me in my personal opinion I would protest with the peaceful protesters.
+Not the people doing vandlism and looting and stuff like that.
+People now in our place don't even follow traffic rules.
+Then some bad people like the people who are doing those things also burn cars.
+You have to be careful with were you park your car that way they don't burn your car.
+Now enough about the news.
+My day was that I worked on OpenStax and I am almost on 1.3 and almost finished 1.2.
+I am planning to finish 1.2 tomorrow.
+Then in the afternoon I just read the Ubuntu wiki book and soon after I finish the book I can learn something called emacs gitUI.
+Now I am typing here on my README file to update my github page still in some way. That is it for now.
+I will type tomorrow hopefully.
