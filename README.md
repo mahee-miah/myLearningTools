@@ -206,6 +206,10 @@ That presentation is about Ubuntu.
 Also some news about me is that I installed grammerly on firefox.
 The biggest thing for me is that I learnt it from the book.
 This made me really happy.
+Also, my friend Nubira came to my house today.
+(We made sure to keep our distance like six feet distance.)
+They gave us cake which now we have two cakes.
+Chocolate and marble cake which I love.
 Now maybe tomorrow there is more typing.
 
 
@@ -223,6 +227,29 @@ You have to be careful with were you park your car that way they don't burn your
 Now enough about the news.
 My day was that I worked on OpenStax and I am almost on 1.3 and almost finished 1.2.
 I am planning to finish 1.2 tomorrow.
-Then in the afternoon I just read the Ubuntu wiki book and soon after I finish the book I can learn something called emacs gitUI.
+Then in the afternoon I just read the Ubuntu wiki book and soon afterI finish the book I can learn something called emacs gitUI.
 Now I am typing here on my README file to update my github page still in some way. That is it for now.
 I will type tomorrow hopefully.
+
+### June 6, 2020 (*There is the protesting and Quarintine*)
+
+It's June 6th today and the year is 2020.
+The year where all the new stuff came out.
+Like Ubuntu 20.04 or Ihpone 11.
+There are also bad stuff that came out.
+Like COVID-19 and the protesting in the US.
+My impressions on protesting.
+I support peaceful protesters and how they are doing the protest
+Then I don't support the people who are doing vandlism as I said once more again.
+How some people are handling this, is just the way I don't get.
+How does doing vandlism and looting stores a protest for George Floyed.
+Anyway, why talk about this when I can just talk about my day.
+Today in the morning I worked on OpenStax at eight o'clock.
+Then in the afternoon I had to read the Ubuntu Wikibook that way I learn the commands on terminal and then I can learn emacs quicker.
+Then also I have to work on the presentation that I am making.
+I finally got an idea on what slide I am going to make.
+Like the commands that you could make for terminal like how in some other paragraph I typed.
+So I am happy that I finally got an idea.
+The idea though won't stop me from typing here on my README file.
+I can still update my github page.
+More typing tomorrow.
