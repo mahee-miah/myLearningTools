@@ -214,6 +214,7 @@ Now maybe tomorrow there is more typing.
 
 
 ### June 5, 2020 (*Protesting and Quarintine*)
+<<<<<<< HEAD
 I always repeat what there is in the title so anyway.
 Today is June 5, 2020.
 We always have to stay safe and wear masks if we go outside because as you know there is COVID-19.
@@ -255,5 +256,38 @@ I can still update my github page.
 More typing tomorrow hopefully.
 
 ### June 8, 2020 (**It is national Best friends day!**)
+=======
 
-
+Today is June 8, 2020. 
+There is new news today, I searched up in the internet when is BFF's day.
+And then today I saw it is national Best Friends day.
+So, there is that news.
+I won't mention about the protesting and also COVID-19 today because it is a happy day why ruin it but this is just one piece of news that might not be so happy.
+Today is George Floyed memorial so that is the downside about today.
+Otherwise I feel happy when I figured that out.
+Now about my day.
+I worked on OpenStax and learned about evaluating Integers.
+Also in the morning I helped my brother with his learning on the app he uses called KhanKids.
+He loves that app.
+Then in the afternoon I learned about Ubuntu LibreOffice the history of it and also I learned that you can make documents and slides and spreadsheets there to.
+Then it is night time.
+Which I am not sleeping when in central time it is already 11:23 pm.
+I slept in the afternoon so it will take me a while till I fall asleep.
+Now besides the memorial today I am happy about what I figured out once I say again.
+Hopefully tomorrow if the night is like how I have it now then I will type here once again.
+I do repeat what is in the title so again.
+Today is June 5, 2020.
+There is Protesting and there is Quarintine.
+Now the main point about the news in the US is the protest.
+In our place you have to be careful where you park your car because people in the place where we live loot businesses and then they also burn cars and also people don't follow traffic rules.
+Then they do vandlism which is like breaking stores.
+This is just crazy.
+Now about my day.
+I worked on OpenStax and I am almost done with 1.2 and soon on 1.3.
+I am so excited, tomorrow I am planning to finish 1.2.
+Then in the afternoon I read the ubuntu Wiki book and when I am done reading the wiki book I can learn about someting called Emacs gitUI.
+Now in the evening I am typing here because I don't have that many ideas for slides about the presentation that I am making on Latex.
+As I said a couple of times I am just getting bored and I don't have slide ideas.
+So I update my README file just so I updated something.
+There will be more tomorrow hopefully.
+>>>>>>> refs/remotes/origin/master
