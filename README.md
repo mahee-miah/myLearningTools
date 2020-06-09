@@ -252,4 +252,8 @@ Like the commands that you could make for terminal like how in some other paragr
 So I am happy that I finally got an idea.
 The idea though won't stop me from typing here on my README file.
 I can still update my github page.
-More typing tomorrow.
+More typing tomorrow hopefully.
+
+### June 8, 2020 (**It is national Best friends day!**)
+
+
