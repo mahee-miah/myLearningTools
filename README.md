@@ -274,6 +274,14 @@ Then it is night time.
 Which I am not sleeping when in central time it is already 11:23 pm.
 I slept in the afternoon so it will take me a while till I fall asleep.
 Now besides the memorial today I am happy about what I figured out once I say again.
+Also I learned another thing new.
+It is about github.
+The list below is just an example to show what I have learned.
+
+1. example 1
+2. example 2
+3. example 3
+and etc.
 Hopefully tomorrow if the night is like how I have it now then I will type here once again.
 I do repeat what is in the title so again.
 Today is June 5, 2020.
