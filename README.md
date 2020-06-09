@@ -281,21 +281,9 @@ The list below is just an example to show what I have learned.
 1. example 1
 2. example 2
 3. example 3
+>
 and etc.
 Hopefully tomorrow if the night is like how I have it now then I will type here once again.
 I do repeat what is in the title so again.
-Today is June 5, 2020.
-There is Protesting and there is Quarintine.
-Now the main point about the news in the US is the protest.
-In our place you have to be careful where you park your car because people in the place where we live loot businesses and then they also burn cars and also people don't follow traffic rules.
-Then they do vandlism which is like breaking stores.
-This is just crazy.
-Now about my day.
-I worked on OpenStax and I am almost done with 1.2 and soon on 1.3.
-I am so excited, tomorrow I am planning to finish 1.2.
-Then in the afternoon I read the ubuntu Wiki book and when I am done reading the wiki book I can learn about someting called Emacs gitUI.
-Now in the evening I am typing here because I don't have that many ideas for slides about the presentation that I am making on Latex.
-As I said a couple of times I am just getting bored and I don't have slide ideas.
-So I update my README file just so I updated something.
-There will be more tomorrow hopefully.
->>>>>>> refs/remotes/origin/master
+
+
