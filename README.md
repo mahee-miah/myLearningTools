@@ -284,6 +284,20 @@ The list below is just an example to show what I have learned.
 >
 and etc.
 Hopefully tomorrow if the night is like how I have it now then I will type here once again.
-I do repeat what is in the title so again.
 
 
+
+### June 9, 2020 (*Quarintine and Protesting*)
+
+June 9, 2020.
+There is the quarintine for at least three months.
+Then there is the protesting which there should be no more protesting in the place I live in.
+On the news they were showing how George Floyed's funeral was.
+There was singing and talking.
+Even though it did seem sad.
+Now about my day.
+I worked on OpenStax to work on my math.
+Then in the afternoon I read ten pages of the Ubuntu wikibook that my dad downloaded.
+So now at night before working on the slides that I am making I am typing here to also keep the github page still updated with my main file on github.
+Now before going I am closing off by saying stay safe.
+More typing here tomorrow hopefully.
