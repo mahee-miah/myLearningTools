@@ -301,3 +301,29 @@ Then in the afternoon I read ten pages of the Ubuntu wikibook that my dad downlo
 So now at night before working on the slides that I am making I am typing here to also keep the github page still updated with my main file on github.
 Now before going I am closing off by saying stay safe.
 More typing here tomorrow hopefully.
+
+### June 10, 2020 (*Qarintine and Protesting again)
+
+Today is June 10, 2020.
+My place is one lockdown like the almost the rest of the world and we are stuck inside.
+Then protesting for George Floyed.
+What I think will happen in the future is that soon the schools will learn about this insident of George Floyed and the protest.
+Like my brothers will learn about this when they are in school.
+About my day now.
+It is just the same thing.
+Working on OpenStax in the morning.
+Then in the afternoon reading the Ubuntu Wikibook to make notes for the slides that I am making.
+Then at night I am working on my README file to make some more updates on the github page and going to work on the slides.
+That is about some important stuff about my day.
+Which is just the same thing over and over again.
+Now here is something interesting.
+This is from markdown cheat sheet, the unordered list.
+>
+-this is the first item
+-this is the second item
+-this is the third item 
+>
+And etc.
+That is what I learned in markdown.
+Now it is time to work on my slides.
+
