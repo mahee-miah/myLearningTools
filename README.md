@@ -302,10 +302,10 @@ So now at night before working on the slides that I am making I am typing here t
 Now before going I am closing off by saying stay safe.
 More typing here tomorrow hopefully.
 
-### June 10, 2020 (*Qarintine and Protesting again)
+### June 10, 2020 (*Qarintine and Protesting again*)
 
 Today is June 10, 2020.
-My place is one lockdown like the almost the rest of the world and we are stuck inside.
+My place is on lockdown like the almost the rest of the world and we are stuck inside.
 Then protesting for George Floyed.
 What I think will happen in the future is that soon the schools will learn about this insident of George Floyed and the protest.
 Like my brothers will learn about this when they are in school.
@@ -327,3 +327,26 @@ And etc.
 That is what I learned in markdown.
 Now it is time to work on my slides.
 
+### June 11, 2020 (**Quarintine and Protesting**)
+
+Today is June 11, 2020.
+Again as I am saying there is **CORONAVIRUS** and **Protesting**.
+That is why it is getting a little boring at home.
+So what I did today in the morning is not OpenStax???????? **WHAT?**
+So what I did today is Freckle.
+Freckle is a learning resourse that in my school we use.
+There is math, reading, science, and social studies.
+There is almost all school subject there in one website.
+So I did some of the math which is fact practice.
+I practiced my math facts like 9 times 12 or 11-9 and math facts like that.
+Then I did a bit of reading.
+I read a Realistic Fiction story about two girls that are sisters going to a concert of the beetles.
+Later I read nonfiction stories about food like poutine and chocolate and kimchi.
+So that is what I did in the morning.
+Then in the afternoon as usual I read the Ubuntu wikibook.
+I read more than how much I usually read though.
+If I have to say myself I think I read quite a lot.
+Then of course at night I am working on my laptop README file.
+I am planning not to work on my slides today and tomorrow I am planning to work on the slides.
+Well got to go.
+More typing tomorrow hopefully, (I almost always say the same thing at the last because I can't think of any other closing.)
