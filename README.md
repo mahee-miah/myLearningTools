@@ -330,9 +330,9 @@ Now it is time to work on my slides.
 ### June 11, 2020 (**Quarintine and Protesting**)
 
 Today is June 11, 2020.
-Again as I am saying there is **CORONAVIRUS** and **Protesting**.
+Again as I am saying there is **CORONAVIRUS** and **protesting**!
 That is why it is getting a little boring at home.
-So what I did today in the morning is not OpenStax???????? **WHAT?**
+So what I did today in the morning is not OpenStax???????? **WHAT?**O
 So what I did today is Freckle.
 Freckle is a learning resourse that in my school we use.
 There is math, reading, science, and social studies.
@@ -350,3 +350,28 @@ Then of course at night I am working on my laptop README file.
 I am planning not to work on my slides today and tomorrow I am planning to work on the slides.
 Well got to go.
 More typing tomorrow hopefully, (I almost always say the same thing at the last because I can't think of any other closing.)
+
+
+### June 12, 2020 (**Quarintine and Protesting**)
+
+Today is June 12, 2020.
+We are surviving **COVID-19** and **protesting**!
+(If you live in any of the countries of Europe or live in the United States.)
+I mean COVID-19 everyone in the world is facing , but the protesting is like some countries like the countries in Europe or America.
+I feel like the protests in my town are getting better but there is still protesting.
+Also we still have to be careful with where we park our cars.
+Now what I want to get to now is my day.
+So today I was supposed to have a test but then when my mom checked she said it looked good so I did not have the test.
+For study though in the morning I did look over my math notebook just in case if I even have the test.
+That is what I did in the morning.
+Now in the afternoon there was a exciting part.
+I finished reading the Ubuntu wikibook.
+The downpart about it is that I have to re-read that wikibook all over again.
+But the upside about it again is that I can review the stuff that I want to re- learn again by reading again.
+So that was the exciting news.
+Now in the evening I am working on the README file to update on my day.
+Then later I am planning to work on the slides.
+I am really happy that I have some more slides but that will make the slides almost a summary of the wikibook.
+There is alot of work for me to do.
+Well busy busy.
+More typing tomorrow if I can get to it tomorrow which I am on fire for these few days.
