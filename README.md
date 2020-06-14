@@ -375,3 +375,20 @@ I am really happy that I have some more slides but that will make the slides alm
 There is alot of work for me to do.
 Well busy busy.
 More typing tomorrow if I can get to it tomorrow which I am on fire for these few days.
+
+
+### June 13, 2020 (**Quarintine and Protesting**)
+Today is June 13, 2020.
+We are again saying surviving the **CORONAVIRUS** and for some countries **PROTESTING**.
+Which are getting out of hand.
+There is still news about Coronavirus but now it is less.
+Now the news is mainly about the protesting in the countries.
+So about my day now.
+There is nothing much.
+I reviewed the commands you could use for emacs.
+Then in the afternoon I showed my brother some plants that we planted in our garden.
+Then at night I worked on the slides and I also am working now on the README file.
+So there was nothing that exciting.
+Stay safe.
+More typing tomorrow hopefully.
+
