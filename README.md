@@ -392,3 +392,30 @@ So there was nothing that exciting.
 Stay safe.
 More typing tomorrow hopefully.
 
+### June 14, 2020 (**Quarintine and Protesting**)
+
+Today is June 14, 2020.
+The whole world is surviving **COVID-19**.
+Some of the world is surviving the **protesting.**
+Which again I am saying that I think that the protest is getting out of hand.
+For some of the cities in the United States like Seattle it really is getting out of hand.
+Like how there is a city inside a city with no police allowed.
+That place is called C.H.A.Z.
+With no police allowed is bad because people there could be doing illegal stuff.
+This is just scary.
+In some places like in my town now people are peacefully protesting.
+About my day now.
+Today in the morning I worked on Freckle and read about sushi and Maple Syrup and I finished reading about Chocolate.
+The afternoon I was having a nice foot spa by putting my feet in water.
+Also I played in the water with my brother.
+Then in the evening me and my family went out for a drive.
+We went to riverplex which is very pretty with a lake or river there.
+When we came home we cleaned ourselves up.
+I washed my hair and also washed my hands and face.
+Plus I had to change my clothes.
+Then we watched news and are now watching monster fish.
+I am working on my slides and the README file.
+Now that is it.
+Quite a quick day.
+More typing tomorrow.
+
