@@ -419,3 +419,22 @@ Now that is it.
 Quite a quick day.
 More typing tomorrow.
 
+
+### June 15, 2020 (**Quarintine and of course Protesting!**)
+
+Today is June 15, 2020 
+As I am saying again.
+The whole world is surviving **COVID-19**.
+Some of the world is surviving the **protesting**.
+I don't have much news today but in the United States some one got killed because of the Police.
+That is all I know.
+I did not pay attention to the news today.
+I am now still pretty scared again as I am saying.
+About my day.
+I worked on Freckle and read about sushi and I am starting to read about curry and where it originated.
+Next in the afternoon I had the foot spa with my brother again like I did yesterday.
+Then in the Evening, as for us it is coconut water day for us me and my family drank coconut water.
+Also I was working on the slides and now also working on my README file.
+So like yesterday it was a quick day.
+Hopefully I can type again tomorrow.
+
