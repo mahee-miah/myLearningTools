@@ -438,3 +438,28 @@ Also I was working on the slides and now also working on my README file.
 So like yesterday it was a quick day.
 Hopefully I can type again tomorrow.
 
+
+### June 19, 2020 (**Quarintine and Protesting**)
+
+Today is June 19, 2020.
+I am typing again at a different time.
+There is a reason.
+So, two days ago, I accidentally deleted all my files in mygithubdocs when I was only trying to delete one.
+Then that time I did not know how to fix it.
+So I asked my dad for help.
+He did not even finish the process.
+That is why for another day after that happened I tood a day off to relax my mind about what I did and then thinking that tomorrow (which is now today) I will try to fix it.
+Then today, I fixed it by using terminal git clone then the link for my github page.
+After I did that I got everything like my presentation and README file and also my COVID-19 file.
+Then I learned something new on Markdown cheatsheet. 
+So below this line I will show you what I learned.
+
+1. Fenced code block: {
+                         "firstName": "Mahee",
+                         "lastName":  "Miah",
+                         "age": 10
+                       }  
+>
+That is what I learned and I wanted to try the fenced code block.
+There will be typing tonight or in the afternoon.
+
