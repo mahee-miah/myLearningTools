@@ -456,10 +456,29 @@ So below this line I will show you what I learned.
 
 1. Fenced code block: {
                          "firstName": "Mahee",
+                         >
                          "lastName":  "Miah",
+                         >
                          "age": 10
                        }  
 >
 That is what I learned and I wanted to try the fenced code block.
 There will be typing tonight or in the afternoon.
 
+
+
+### June 20, 2020 (It is soon Father's day which is tomorrow!)
+
+Today is June 20, 2020.
+I decided I will type here in the morning and in the evening if I am not so caught up on the book that I am currently reading.
+Now I just remembered that to talk about the book that I am currently reading.
+The book is called Rapuzel and the lost lagoon.
+It is about one princess which is Rapunzel and the daughter of the captin of the gaurd who later becomes Rapunzel's lady in waiting.
+Together they go to a secret lagoon that hold's the treasure of the kingdom.
+What lead them there is one riddle they found.
+Rapunzel and Cassandra who is the daughter of the captin have to find the secret though before someone more *sinsister* does.
+So that was now what I am currently reading.
+Then in the morning like very early I woke up to walk with my dad outside.
+Then we also ran abit.
+That was a good 1 hour excersize we had outside.
+More at the evening.
