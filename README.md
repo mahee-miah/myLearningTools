@@ -499,3 +499,20 @@ To be specific one of my best friends.
 That is about my day.
 Bye Bye.
 
+
+### June 21, 2020 (*Today is Father's day!*)
+
+Today is June 21, 2020.
+It is father's day today.
+Also for my family it is ice cream day.
+So I guess why don't we have ice cream for father's day and my dad can eat ice cream first.
+Anyway I have a plan when I am eating ice cream later.
+So that is also why I am going to let my dad eat first.
+For the last two days I have been going outside with my dad to run.
+On the first day I woke up at four o'clock then later I went to run with him.
+Then on saturday I woke up at five o'clock which I did not mind later.
+Then today I could not go because we were both sleeping.
+I am going to do openstax right now.
+More in the evening.
+
+
