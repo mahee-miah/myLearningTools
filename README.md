@@ -482,3 +482,20 @@ Then in the morning like very early I woke up to walk with my dad outside.
 Then we also ran abit.
 That was a good 1 hour excersize we had outside.
 More at the evening.
+
+It is now the evening.
+My brother is now watching pj masks and I am working on github.
+I also forgot to talk about a new card game that I learned.
+It is called Solitair.
+It is more like you need to go in order when you count and also you have to know the ranking like king queen jack.
+Then you go into counting from ten nine eight seven six five four three two.
+There is no number one.
+Then there is the aces that you put on the top that the rank is even higher than the king.
+All the cards that are matching the shape like the two of diamonds goes to the ace of diamonds.
+Also you have to match them by color.
+like black red black red.
+Then I also talked abit with my friend.
+To be specific one of my best friends.
+That is about my day.
+Bye Bye.
+
