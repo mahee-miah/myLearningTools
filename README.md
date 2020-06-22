@@ -454,13 +454,14 @@ After I did that I got everything like my presentation and README file and also 
 Then I learned something new on Markdown cheatsheet. 
 So below this line I will show you what I learned.
 
-1. Fenced code block: {
-                         "firstName": "Mahee",
-                         >
-                         "lastName":  "Miah",
-                         >
-                         "age": 10
-                       }  
+1. Fenced code block: 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
 >
 That is what I learned and I wanted to try the fenced code block.
 There will be typing tonight or in the afternoon.
