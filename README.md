@@ -214,7 +214,7 @@ Now maybe tomorrow there is more typing.
 
 
 ### June 5, 2020 (*Protesting and Quarintine*)
-<<<<<<< HEAD
+
 I always repeat what there is in the title so anyway.
 Today is June 5, 2020.
 We always have to stay safe and wear masks if we go outside because as you know there is COVID-19.
