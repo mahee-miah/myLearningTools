@@ -256,7 +256,7 @@ I can still update my github page.
 More typing tomorrow hopefully.
 
 ### June 8, 2020 (**It is national Best friends day!**)
-=======
+
 
 Today is June 8, 2020. 
 There is new news today, I searched up in the internet when is BFF's day.
@@ -526,5 +526,22 @@ Then in the evening I am planning to make some lemonade with my mom.
 I feel so hot.
 I am also now watching youtube on our TV.
 Stay safe!
+
+### June 22, 2020 (**The regular day like Quarintine and stuff.**)
+
+Today is June 22, 2020.
+It is nothing special today.
+it is the same thing Quarintine and protesting.
+Staying home.
+Studying looking at plants talking a bit with my friends typing here on github about my day.
+We have to be careful.
+These days I don't have any news about *protesting* and *Coronavirus* because I don't watch the news much these day's .
+The routine I have is still a bit boring.
+Or shall I say very boring.
+So I added in abit of reading to my day. 
+Most probably in the afternoon I will read one of the books now that I am currently reading.
+The Lost lagoon one or the Chocolate touch.
+Anyway time to work on OpenStax.
+More in the evening.
 
 
