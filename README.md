@@ -455,14 +455,7 @@ Then I learned something new on Markdown cheatsheet.
 So below this line I will show you what I learned.
 
 1. Fenced code block: 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-``` 
->
+
 That is what I learned and I wanted to try the fenced code block.
 There will be typing tonight or in the afternoon.
 
@@ -544,5 +537,27 @@ Most probably in the afternoon I will read one of the books now that I am curren
 The Lost lagoon one or the Chocolate touch.
 Anyway time to work on OpenStax.
 More in the evening.
+
+It is now the evening once again.
+I am going to work abit on math.
+As I did not do much math today.
+So I am going to do abit more.
+Also I am not going to do openstax.
+I am going to do another math pdf.
+Actually it is one that I did before doing OpenStax.
+So I am planning to do that.
+I got too board of doing OpenStax.
+So I am doing that one.
+I don't know the name of it though
+I will talk about it tomorrow.
+Then also at night I am still playing abit of solitair because of my boardem.
+Which solitair became one of my favorite concentration games.
+Also there is Mahjongg that I also love to play.
+Then there is more like suddoku and mines.
+Thoes are more like strategy and concentration games.
+That is on my laptop as I don't have many games.
+So that is all for today.
+More tomorrow.
+
 
 
