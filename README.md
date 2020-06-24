@@ -550,14 +550,26 @@ I got too board of doing OpenStax.
 So I am doing that one.
 I don't know the name of it though
 I will talk about it tomorrow.
-Then also at night I am still playing abit of solitair because of my boardem.
-Which solitair became one of my favorite concentration games.
-Also there is Mahjongg that I also love to play.
-Then there is more like suddoku and mines.
-Thoes are more like strategy and concentration games.
-That is on my laptop as I don't have many games.
-So that is all for today.
+
+### June 23, 2020 (*Quarintine and protesting once again.*)
+
+Today is June 23, 2020.
+I forgot to type here in the morning so that is why I am typing here in the evening.
+Hopefully I can get back on to the regular schedual tomorrow.
+I don't have any news today as I said yesterday.
+So about my day.
+I was planning alot of stuff.
+I will start with the morning first.
+In the morning i was doing freckle.
+A lot of the stuff in Freckle that I did was so similar to what I did in OpenStax.
+Though the questions there were still quite tricky.
+Now in the afternoon I was like **READ** **READ** **READ** mode.
+I was so into the book that I was reading.
+Rapunzel and the Lost Lagoon.
+I also made a little reading nook for my self in my closet that I cleared up a bit a few months ago.
+So that is quite comfy.
+I also read a lot of my book there.
+If I can say I think books help me with my adjectives esspecially when the author is really detailed about what he or she is writing.
+Anyway i got to sleep.
 More tomorrow.
-
-
 
