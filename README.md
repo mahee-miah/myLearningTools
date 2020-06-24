@@ -573,3 +573,22 @@ If I can say I think books help me with my adjectives esspecially when the autho
 Anyway i got to sleep.
 More tomorrow.
 
+### June 24, 2020 (*The regular stuff*)
+
+Today is June 24, 2020.
+I did not type here in the morning.
+So here I am typing here in the afternoon.
+I changed my daily schedual a bit.
+Like still in the morning I will do math.
+In the afternoon though instead of reading I will research about "spacemacs" and make another repository.
+Starting from tomorrow afternoon hopefully my research will start.
+In the morning I was doing that other math book.
+Now as I am typing here in the afternoon I am working on github.
+Then in the evening that part will change.
+I will read instead.
+I actually like this schedual a lot better because I feel like I have a bit more freedom at night.
+Also in the afternoon I gave my brother Super Why because he wouldn't watch any new one except the same one **OVER** and **OVER** again.
+So the one I gave him taught him to first of all eat a variety and second of all it says to try new things.
+That is it for now.
+PS: I won't type here in the morning or the evening I will only type here in the afternoon.
+
