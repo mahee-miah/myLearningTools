@@ -594,4 +594,4 @@ PS: I won't type here in the morning or the evening I will only type here in the
 
 ### June 25, 2020 
 
-Today my dad installed emacs with spacemacs configration. My dad said that if I learn emacs properly then I do not need to switch to another editor throughout my life. 
+Today my dad installed emacs with spacemacs configration. My dad said that if I learn emacs properly then I do not need to switch to another editor throughout my life. To me using spacemacs is easier. 
