@@ -594,4 +594,8 @@ PS: I won't type here in the morning or the evening I will only type here in the
 
 ### June 25, 2020 
 
-Today my dad installed emacs with spacemacs configration. My dad said that if I learn emacs properly then I do not need to switch to another editor throughout my life. To me using spacemacs is easier. By the way, I cloned my whole repository from GitHub to my local computer.  
+Today my dad installed emacs with spacemacs configration. My dad said that if I learn emacs properly then I do not need to switch to another editor throughout my life. To me using spacemacs is easier. 
+
+By the way, I cloned my whole repository from GitHub to my local computer.  
+
+The cool thing is that I can see the live preview of my markdown document using markdown and html layers that my dad added in my spacemacs configuration file.
