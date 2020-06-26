@@ -600,6 +600,10 @@ By the way, I cloned my whole repository from GitHub to my local computer.
 
 The cool thing is that I can see the live preview of my markdown document using markdown and html layers that my dad added in my spacemacs configuration file.
 
+Well here I am now, I will use spacemacs from now on.
+No more text editor.
+More tomorrow.
+
 ### June 26, 2020 (**Quarintine and Protesting.**)
 
 Today is June 26, 2020.
