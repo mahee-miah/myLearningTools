@@ -599,3 +599,18 @@ Today my dad installed emacs with spacemacs configration. My dad said that if I 
 By the way, I cloned my whole repository from GitHub to my local computer.  
 
 The cool thing is that I can see the live preview of my markdown document using markdown and html layers that my dad added in my spacemacs configuration file.
+
+### June 26, 2020 (**Quarintine and Protesting.**)
+
+Today is June 26, 2020.
+It is the samething.
+Almost the whole world is in lockdown and some countries are protesting.
+I am typing here in the afternoon.
+In the morning I will type here on spacemacs just to get familierized with it.
+In my opinion spacemacs is **AWESOME!**
+You can only keep you work in one window.
+Then you also get a live preview right in front of you.
+The best thing is that you don't have to go through terminal and do git status or git add . you don't have to do stuff like that.
+Instead you can do keyboard shortcuts.
+That is much better.
+Well there will be more coming tomorrow hopefully.
