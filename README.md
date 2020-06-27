@@ -604,6 +604,7 @@ Well here I am now, I will use spacemacs from now on.
 No more text editor.
 More tomorrow.
 
+
 ### June 26, 2020 (**Quarintine and Protesting.**)
 
 Today is June 26, 2020.
@@ -618,3 +619,25 @@ The best thing is that you don't have to go through terminal and do git status o
 Instead you can do keyboard shortcuts.
 That is much better.
 Well there will be more coming tomorrow hopefully.
+
+
+### June 27, 2020 (**Quarintine and protesting as I am saying once again.**)
+
+Today is June 27, 2020.
+This day is also my third day working on spacemacs.
+I love it.
+It is soooo much faster.
+As I said before I don't have that much news except about our state.
+Also the news in our town.
+So, in our town and state phase four happened.
+Like restaurants are opening and gyms for people to exercise are opening as well.
+Well that happened yesterday.
+So anyway.
+Today my dad went to hoerr nursery to get more plants for our garden.
+I couldn't study that much because I had to take care of my two siblings.
+Though when I did take care of my siblings it was fun.
+So not that much today.
+At least I am glad that I did not have the same schedule again.
+Well if I have time, more tomorrow!
+
+
