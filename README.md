@@ -640,4 +640,22 @@ So not that much today.
 At least I am glad that I did not have the same schedule again.
 Well if I have time, more tomorrow!
 
+### June 28, 2020 (**Quarantine and Protesting.**)
 
+Today is June 28, 2020.
+I am working on spacemacs.
+I learned lots of new things like how to open up something like terminal which in spacemacs it is called eshell.
+Like from spacemacs you can open up apps like firefox from spacemacs.
+So, spacemacs is like an all in one.
+Then about my day.
+I am planning that tomorrow morning I will start working on math.
+So today is am just working on spacemacs really quickly.
+Then in the afternoon I am going to research about spacemacs.
+What I mean by research is how to copy or paste and stuff like that.
+Then at night I am going to have a relaxing time with my family.
+Also some news about me is that I memorized all the commands for pushing your work from spacemacs to github.
+I would have wanted to put the commands here but there are the commands on another github page so that is why I don't want to do that.
+The only thing I could do for that is that give the link.
+The link is down below.
+[spacemacs keyboard shortcuts](github.com/suruz-miah/myTechSupport) emacs-help.md. That is the whole thing.
+Well more in the afternoon or possibly tomorrow.
