@@ -658,4 +658,5 @@ I would have wanted to put the commands here but there are the commands on anoth
 The only thing I could do for that is that give the link.
 The link is down below.
 [spacemacs keyboard shortcuts](github.com/suruz-miah/myTechSupport) emacs-help.md. That is the whole thing.
+If it does not work then type in github.com/suruz-miah/myTechSupport.
 Well more in the afternoon or possibly tomorrow.
