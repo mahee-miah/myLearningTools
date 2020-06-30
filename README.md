@@ -690,3 +690,23 @@ If he gets five stars and the smiley face he can get Ryan's toys review on youtu
 As we don't allow him much to watch Ryan's toys review.
 So that is what I will do in the afternoon.
 More tomorrow or in the afternoon or at night if I forget in the afternoon.
+
+It is now the afternoon.
+I did help my brother study.
+He was learning how to read.
+I was planning that he will get a test on next  Friday.
+So, he has to finish the book somewhere this week that way we get a week to prepare for this.
+The prize for him is that if he passes the test without me having to help him, then in any two hours of the day he can get Ryan's Toys Review.
+So, what I mean is that like in the morning he can get one hour of Ryan and then in the afternoon he can get another hour.
+That is why I am planning to make the test in the morning.
+We will take a little time to review and then we will get straight to the test.
+Then there is something exciting tomorrow.
+Tomorrow is Canada day.
+I am so excited.
+Though, it won't be the same.
+First of all I am not in Canada anymore (I was born in Canada.)
+I am in the US.
+SO, that is different for me.
+Then for all of Canada, they will have to maintain social distancing and you have to wear mask.
+Well, I do have a bit of research to do right now.
+More tomorrow.
