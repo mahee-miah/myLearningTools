@@ -657,6 +657,23 @@ Also some news about me is that I memorized all the commands for pushing your wo
 I would have wanted to put the commands here but there are the commands on another github page so that is why I don't want to do that.
 The only thing I could do for that is that give the link.
 The link is down below.
-[spacemacs keyboard shortcuts](github.com/suruz-miah/myTechSupport) emacs-help.md. That is the whole thing.
+ [Emacs-help.md](github.com/suruz-miah/myTechSupport) emacs-help.md. That is the whole thing.
 If it does not work then type in github.com/suruz-miah/myTechSupport.
 Well more in the afternoon or possibly tomorrow.
+
+### June 29,
+2020 (**Quarantine and Protesting like I said before.**)
+
+Today is June 29, 2020.
+I am again saying that I am working on spacemacs.
+Then I thought about it and I know that I keep on changing my mind about when I type.
+So now I was thinking that I can type in spacemacs in the morning and afternoon.
+Even though in the afternoon I either research or write in my journal.
+I am going to do math on freckle today.
+It is also almost the end of June.
+Soon it will be July!
+Which means it is soon fourth of july.
+Though we are stuck inside. I am just abit sad about the thought that there might not be the fireworks like there always is.
+Well hopefully there is the fireworks though. That will make me really happy.
+Anyway there might be more in the afternoon or tomorrow or if I don't type in the afternoon maybe at night.
+So again, more tomorrow hopefully!
