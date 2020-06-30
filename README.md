@@ -709,4 +709,4 @@ I am in the US.
 SO, that is different for me.
 Then for all of Canada, they will have to maintain social distancing and you have to wear mask.
 Well, I do have a bit of research to do right now.
-More tomorrow.
+More tomorrow hopefully.
