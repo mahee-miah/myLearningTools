@@ -661,8 +661,7 @@ The link is down below.
 If it does not work then type in github.com/suruz-miah/myTechSupport.
 Well more in the afternoon or possibly tomorrow.
 
-### June 29,
-2020 (**Quarantine and Protesting like I said before.**)
+### June 29,2020 (**Quarantine and Protesting like I said before.**)
 
 Today is June 29, 2020.
 I am again saying that I am working on spacemacs.
@@ -677,3 +676,17 @@ Though we are stuck inside. I am just abit sad about the thought that there migh
 Well hopefully there is the fireworks though. That will make me really happy.
 Anyway there might be more in the afternoon or tomorrow or if I don't type in the afternoon maybe at night.
 So again, more tomorrow hopefully!
+
+### June 30, 2020 (Quarantine and Protesting which went to Asia.)
+
+Today is June 30, 2020.
+Some new piece of news is that the protesting went to Asia.
+In the US there was protesting about abortion in Louisiana.
+So, that is some piece of news.
+Then today I am working on the other math book but before working on that math book I will type here on spacemacs.
+Afternoon, I will help my brother with reading.
+I did make a grade like this.
+If he gets five stars and the smiley face he can get Ryan's toys review on youtube.
+As we don't allow him much to watch Ryan's toys review.
+So that is what I will do in the afternoon.
+More tomorrow or in the afternoon or at night if I forget in the afternoon.
