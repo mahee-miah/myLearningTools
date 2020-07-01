@@ -710,3 +710,15 @@ SO, that is different for me.
 Then for all of Canada, they will have to maintain social distancing and you have to wear mask.
 Well, I do have a bit of research to do right now.
 More tomorrow hopefully.
+
+
+### July 1, 2020 (**It is Canada day!**)
+
+Today is July 1, 2020.
+Some exciting news for me is that it is Canada day!
+There is Fourth of July in USA so in Canada they have Canada day.
+Though, I have to work still.
+My mom told me to do a report about wild new zealand. 
+So I am sorting everything out with my notebook.
+Well not that much for the morning.
+More later.
