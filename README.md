@@ -738,3 +738,14 @@ One fact about the wild side of New Zealand is that they have a bird that is cal
 The funny thing is that kiwi is the name of a fruit.
 Well have to work on more research.
 
+### July 2, 2020 (**Two more days till fourth of July!**)
+
+Today is July 2, 2020.
+I am so excited for Fourth of July.
+I mean as it says in the title that two more days till Fourth of July!
+So that means day after tomorrow it is going to be Independence day.
+Which is another name for Fourth of July.
+Then also today is my second day for working on the report of the wild side of New Zealand.
+Also my brother is watching Super Why.
+I like working on my report.
+So, got to get to it.
