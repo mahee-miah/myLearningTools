@@ -722,3 +722,19 @@ My mom told me to do a report about wild new zealand.
 So I am sorting everything out with my notebook.
 Well not that much for the morning.
 More later.
+
+Now it is he evening.
+My brother is watching monster fish and me I will work on a report my mom told me about.
+So, I forgot to talk about that.
+I have to do research on the wild side of New Zealand.
+I do like it.
+Also I have a very good introduction.
+I think it is very descriptive.
+Especially about the snowy mountains.
+There is also other stuff.
+I am first typing in google docs as a draft.
+Then my final report will be on texmaker.
+One fact about the wild side of New Zealand is that they have a bird that is called kiwi.
+The funny thing is that kiwi is the name of a fruit.
+Well have to work on more research.
+
