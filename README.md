@@ -749,3 +749,29 @@ Then also today is my second day for working on the report of the wild side of N
 Also my brother is watching Super Why.
 I like working on my report.
 So, got to get to it.
+
+### July 3, 2020 (**Tomorrow is Fourth of July!**)
+
+Today is July 3, 2020.
+Tomorrow is the Fourth of July.
+We have been hearing people almost all night blow up fireworks in the sky.
+We couldn't see it because the time I went to my laundry room we couldn't here any fireworks at all.
+The progress with my report, I was planning the names of the sections of what I will have. 
+So, last night I was working on that.
+Then also last night I was watching a movie called Matilda.
+We still have to finish it though.
+What I feel is that I feel bad for Matilda.
+Her parents were mean to her and her brother was mean to her.
+I mean her dad also punished her for being smart.
+Today I also had a snack pack that had salted nuts and dried cranberries plus some white cheddar cheese.
+That was so good.
+So anyway a few days ago my mom and I decided not to give my brother his favorite youtuber's show.
+I mean he always cries if we turn it off.
+Then also this morning I helped my mom water plants.
+For my day.
+I am planning in the afternoon to help my brother study.
+Then in the evening, work more on my report plus finish the movie.
+Some exciting news from yesterday is that on Spacemacs I know how to send emails to people.
+The thing that was exiting was that my dad did not even know how to do it.
+I hope I can learn more.
+More later.
