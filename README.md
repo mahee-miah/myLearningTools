@@ -784,7 +784,8 @@ I mean it is very interesting.
 Then the command about sending an email to someone through Spacemacs.
 Here it is.
 
-> Ctrl- x m>
+> Ctrl- x m
+
 That is it.
 You don't have to do that much.
 So that is what I learned yesterday.
