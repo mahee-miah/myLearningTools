@@ -775,3 +775,17 @@ Some exciting news from yesterday is that on Spacemacs I know how to send emails
 The thing that was exiting was that my dad did not even know how to do it.
 I hope I can learn more.
 More later.
+
+It is the evening.
+Something that I want to learn is org mode.
+Then I am planning to work on my report.
+I am very passionate for learning org mode.
+I mean it is very interesting.
+Then the command about sending an email to someone through Spacemacs.
+Here it is.
+
+> Ctrl- x m>
+That is it.
+You don't have to do that much.
+So that is what I learned yesterday.
+Well more tomorrow.
