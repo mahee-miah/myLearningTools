@@ -750,7 +750,7 @@ Also my brother is watching Super Why.
 I like working on my report.
 So, got to get to it.
 
-### July 3, 2020 (**Tomorrow is Fourth of July!**)
+### July 3, 2020 (**Tomorrow is Fourth of July!****
 
 Today is July 3, 2020.
 Tomorrow is the Fourth of July.
@@ -790,3 +790,19 @@ That is it.
 You don't have to do that much.
 So that is what I learned yesterday.
 Well more tomorrow.
+
+### September 12, 2020 (**The same stuff and somethings new**)
+Today is September 12, 2020. It is far more than tomorrow.
+The new school year started and now I am in 5th grade!
+School started on Monday, August 17, 2020 at 7:45 am sharp.
+The new thing is that some people are not actually going to school. Instead of going to school they are doing online learning. 
+Like me, I am doing online learning. 
+Online learning is more harder as in our school we are required to use Google Meet instead of zoom.
+In Google Meet you get kicked out more especially in my chrome book. 
+So, I decided to use my laptop as another monitor that I will use for the Google Meet and use my school chrome book for my work that I have to do in school.
+I am having a lot of fun in online learning. 
+I also do miss doing face to face school.
+Though I now am getting use to online school, we have a long break that is almost like one hour and twenty minutes.
+STEM (science, technology, engineering, and mathematics) also started today.
+Anyway, maybe more tomorrow, you never know. 
+
