@@ -1,4 +1,16 @@
+* Magit
 
 
 
+*Personal access token*
+
+
+*Storing GitHub username/password for Emacs/doomEmacs*
+
+When fetching, pulling, and/or pushing a repository from GitHub using Doomemacs, it asks for my github username and password every time I perform a git operation (pull,push, fetch) from my gitHub repository. It's a hassle/annoying!!
+
+For that, all what I did is pulled changes from my repository using doomEmacs, then enter  /username/password/ (personal access token, generated for commandline git operation!). Then open /eshell/ and enter the following command
+
+#+begin_quote
 git config --global credential.helper store
+#+end_quote
