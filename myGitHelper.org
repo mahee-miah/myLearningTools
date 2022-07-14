@@ -3,6 +3,7 @@
 
 
 *Personal access token*
+
 The Personal access token or PAT in GitHub is another way to sign into your GitHub account. The password for the access token will help also when you are signing into your GitHub page. The only thing about the password for the access token is that it is pretty long. So, if you sign in to GitHub with the password of your access token, make sure you have your password saved.
 
 *Storing GitHub username/password for Emacs/doomEmacs*
