@@ -1,6 +1,6 @@
 * Magit
 
-
+Magit is a program to the Git version control system. It is en grained as a package in Emacs. Magit isn't perfect (as in the fact that it can improve and wrap every git command), but it still can preform usual version control commands.
 
 *Personal access token*
 
@@ -8,7 +8,7 @@ The Personal access token or PAT in GitHub is another way to sign into your GitH
 
 *Storing GitHub username/password for Emacs/doomEmacs*
 
-When fetching, pulling, and/or pushing a repository from GitHub using Doomemacs, it asks for my github username and password every time I perform a git operation (pull,push, fetch) from my gitHub repository. It's a hassle/annoying!!
+When fetching, pulling, and/or pushing a repository from GitHub using doomEmacs, it asks for my github username and password every time I perform a git operation (pull,push, fetch) from my gitHub repository. It's a hassle/annoying!!
 
 For that, all what I did is pulled changes from my repository using doomEmacs, then enter  /username/password/ (personal access token, generated for commandline git operation!). Then open /eshell/ and enter the following command
 
