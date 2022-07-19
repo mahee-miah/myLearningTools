@@ -21,4 +21,6 @@ git config --global credential.helper store
 A few useful Git operations using command line are:
  - git add: You use this command to add a file.
  - git commit-m (type commit message): Use this command to type a commit message when you are pushing edits you made to your GitHub page.
- - git reset: You are resetting a file
+ - git reset: You are resetting a git file.
+ - git push: You are pushing the modifications you made to your github repository.
+ - git checkout: You can check out another *branch*.
